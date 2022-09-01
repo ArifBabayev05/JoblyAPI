@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobly", "WebJobly.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "..\Entity\Entity.csproj", "{0A2D1AA6-C0F0-412A-A668-C8975BE8FB2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{AA83156B-E12C-4F47-AEFA-E0E8222542F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0A2D1AA6-C0F0-412A-A668-C8975BE8FB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A2D1AA6-C0F0-412A-A668-C8975BE8FB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A2D1AA6-C0F0-412A-A668-C8975BE8FB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA83156B-E12C-4F47-AEFA-E0E8222542F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA83156B-E12C-4F47-AEFA-E0E8222542F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA83156B-E12C-4F47-AEFA-E0E8222542F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA83156B-E12C-4F47-AEFA-E0E8222542F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
